@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/733856191.svg)](https://zenodo.org/doi/10.5281/zenodo.10409345)
+
 ![hankkeen_logo](/images/roveri_logo.svg)
 
 # ROS2-Demo
